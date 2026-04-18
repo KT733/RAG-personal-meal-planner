@@ -1,6 +1,6 @@
 Gen AI Project
 --
-Part 2: Create a Retrieval-Augmented Generation (RAG) application with 2 helper functions and compare its performance with vanilla RAG and LLM for 5 different prompts. 
+Create a Retrieval-Augmented Generation (RAG) application with 2 helper functions and compare its performance with vanilla RAG and LLM for 5 different prompts. 
 
 Python Requirements
 --
