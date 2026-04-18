@@ -72,26 +72,3 @@ Flow:
 
 This improves retrieval quality when user prompts are short, vague, or stylistic.
 
----
-
-## Tech stack
-
-- **Python**
-- **LangChain**
-- **OpenAI / ChatOpenAI**
-- **Pinecone**
-- **RecipeBERT** (`DivyaMereddy007/RecipeBert_v5`)
-- **dotenv** for API key management
-- **Jupyter Notebook** for experimentation
-
----
-
-## Repository contents
-
-This project is currently implemented as a notebook-based prototype.
-
-```bash
-.
-├── rag.ipynb        # Main notebook containing the end-to-end RAG pipeline
-├── README.md        # Project documentation
-└── .env             # API keys (not committed)
